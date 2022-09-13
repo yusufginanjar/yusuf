@@ -1,13 +1,6 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script src="https://cdn.tailwindcss.com"></script>
-</head>
-<body>  
-    <main class="w-full min-h-screen px-2 py-12 bg-[url('assets/images/bg2.jpg')] bg-cover">
-        <div class="w-full flex justify-center">
+<template>
+    <div class="w-full min-h-screen px-2 py-12 bg-[url('assets/images/bg2.jpg')] bg-cover">
+    <div class="w-full flex justify-center">
             <div class="max-w-md relative">
             <!-- Card -->
             <div class="flex justify-center">
@@ -83,34 +76,6 @@
                 </aside>
             </div>
         </div>
+        </div>  
         </div>
-    </main>
-
-    <script>
-        tailwind.config = {
-          theme: {
-            extend: {
-              colors: {
-                color1: '#2B2968',
-                color2: '#5F5BBF',
-                color3: '#4B47AB',
-                color4: '#E5E4F1',
-                red: '#EB5353',
-              },
-              fontFamily: {
-                'sans': ['Open-Sans','ui-sans-serif', 'system-ui',],
-                }
-            },
-            fontWeight: {
-                hairline: 100,
-                semibold: 600,
-                bold: 700,
-                'extra-light': 100,
-                extrabold: 800,
-                'extra-bold': 800,
-            }
-          }
-        }
-      </script>
-</body>
-</html>
+</template>
