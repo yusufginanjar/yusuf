@@ -25,19 +25,19 @@
                             Or
                         </div>
                         <div class="flex mt-5 space-x-3 md:mt-6">
-                            <a href="#" class="items-center">
+                            <a href="https://github.com/yusufginanjar" class="items-center">
                                 <img src="assets/images/square-github-brands 1.svg"  width="30" alt="">
                             </a>        
-                            <a href="#" class="items-center">
+                            <a href="https://www.linkedin.com/in/yusuf-ginanjar/" class="items-center">
                                 <img src="assets/images/linkedin-brands 1.svg" width="30" alt="">
                             </a>        
-                            <a href="#" class="items-center">
+                            <a href="https://www.instagram.com/yusufginanjarputra/" class="items-center">
                                 <img src="assets/images/square-instagram-brands 1.svg"  width="30" alt="">
                             </a>        
-                            <a href="#" class="items-center">
+                            <a href="https://wa.me/6285643773721" class="items-center">
                                 <img src="assets/images/square-whatsapp-brands 1.svg"  width="30" alt="">
                             </a>        
-                        </div>  
+                        </div>   
                     </div>
                 </div>
             </div>
