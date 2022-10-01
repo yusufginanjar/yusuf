@@ -1,4 +1,5 @@
 <template>
+    <Transition name="fade" appear>
             <div class="flex justify-center">
                 <div class="w-full relative max-w-sm bg-color4 rounded-lg border border-gray-200 pt-14 shadow-md dark:bg-gray-800 dark:border-gray-700 md:w-80">
                     <img src="assets/images/Rectangle.svg" class="absolute w-full top-0" alt="">
@@ -30,4 +31,7 @@
                     </div>
                 </div>
             </div>
+        </Transition>
 </template>
+
+
