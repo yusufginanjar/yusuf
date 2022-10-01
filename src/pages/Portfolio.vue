@@ -12,41 +12,47 @@
                         </div>
                     </div>
                     <div class="relative pb-10 mt-24 px-6">
-                        <h2 class="text-xl font-semibold text-red">Website</h2>
+                        <h2 class="text-xl font-semibold text-red">Design</h2>
                         <div class="grid grid-cols-3">
                             <div class="w-full p-1">
-                                <div class="bg-white rounded shadow-md h-20">
-                                    <img class="mb-3 w-full shadow-lg " src="assets/images/kampusjualan.jpg" alt="Yusuf image">
+                                <div class="bg-white rounded shadow-md h-20 overflow-hidden">
+                                    <a href="https://id.pinterest.com/pin/630011435362301716/" target="_blank" rel="noopener noreferrer">    
+                                        <img class="mb-3 w-full shadow-lg " src="assets/images/1.jpg" alt="Yusuf image">
+                                    </a>
                                 </div>
                             </div>
                             <div class="w-full p-1">
                                 <div class="bg-white rounded shadow-md h-20">
-                                    <img class="mb-3 w-full shadow-lg " src="assets/images/kampusjualan.jpg" alt="Yusuf image">
+                                    <a href="https://id.pinterest.com/pin/630011435362409969/" target="_blank" rel="noopener noreferrer">
+                                        <img class="mb-3 w-full shadow-lg " src="assets/images/2.jpg" alt="Yusuf image">
+                                    </a>
                                 </div>
                             </div>
                             <div class="w-full p-1">
                                 <div class="bg-white rounded shadow-md h-20">
-                                    <img class="mb-3 w-full shadow-lg " src="assets/images/kampusjualan.jpg" alt="Yusuf image">
+                                    <a href="https://id.pinterest.com/pin/630011435363529878/" target="_blank" rel="noopener noreferrer">
+                                        <img class="mb-3 w-full shadow-lg " src="assets/images/3.jpg" alt="Yusuf image">
+                                    </a>
                                 </div>
                             </div>
                         </div>
-                        <h2 class="text-xl font-semibold text-red mt-4">Design</h2>
+                        <h2 class="text-xl font-semibold text-red mt-4">Website</h2>
                         <div class="grid grid-cols-3">
                             <div class="w-full p-1">
                                 <div class="bg-white rounded shadow-md h-20">
-                                    <img class="mb-3 w-full shadow-lg " src="assets/images/kampusjualan.jpg" alt="Yusuf image">
+                                    <a href="http://yusufginanjar.com" target="_blank" rel="noopener noreferrer">
+                                        <img class="mb-3 w-full shadow-lg " src="assets/images/4.jpg" alt="Yusuf image">
+                                    </a>
                                 </div>
                             </div>
                             <div class="w-full p-1">
                                 <div class="bg-white rounded shadow-md h-20">
-                                    <img class="mb-3 w-full shadow-lg " src="assets/images/kampusjualan.jpg" alt="Yusuf image">
+                                    <a href="http://kampusjualan.com" target="_blank" rel="noopener noreferrer">
+                                        <img class="mb-3 w-full shadow-lg " src="assets/images/kampusjualan.jpg" alt="Yusuf image">
+                                    </a>
                                 </div>
                             </div>
-                            <div class="w-full p-1">
-                                <div class="bg-white rounded shadow-md h-20">
-                                    <img class="mb-3 w-full shadow-lg " src="assets/images/kampusjualan.jpg" alt="Yusuf image">
-                                </div>
-                            </div>
+  
                         </div>
                     </div>
                 </div>
