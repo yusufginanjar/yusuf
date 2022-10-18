@@ -18,7 +18,7 @@
                                 HTML, CSS, JS
                             </li>
                             <li class="mt-1">
-                                LARAVEL
+                                LARAVEL, Blade
                             </li>
                             <li class="mt-1">
                                 Git/GitHub
