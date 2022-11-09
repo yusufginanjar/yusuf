@@ -48,11 +48,13 @@
 
 <script>
     import rectangle from '../../assets/images/Rectangle.svg'
+    import profile from '../../assets/images/profil.png'
 
     export default {
         name: 'About',
         components: {
-            rectangle
+            rectangle,
+            profile
         },
         data() {
             return {

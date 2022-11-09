@@ -45,7 +45,7 @@
 </template>
 
 <script>
-    import rectangle from '../../assets/images/Rectangle.svg'
+    import rectangle from './../../assets/images/Rectangle.svg'
     import profile from '../../assets/images/profil.png'
     import github from '../../assets/images/square-github-brands 1.svg'
     import linkedin from '../../assets/images/linkedin-brands 1.svg'   

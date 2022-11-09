@@ -2,7 +2,8 @@
 
 <template>
     <main>
-    <div class="w-full min-h-screen px-2 py-12 bg-[url('assets/images/bg2.jpg')] bg-cover">
+    <!-- <div class="w-full min-h-screen px-2 py-12 bg-[url('assets/images/bg2.jpg')] bg-cover"> -->
+    <div class="w-full min-h-screen px-2 py-12 bg-cover">
         <div class="w-full flex justify-center">
             <div class="max-w-md relative">
                 <router-view/>
