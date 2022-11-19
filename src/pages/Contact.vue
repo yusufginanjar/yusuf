@@ -7,7 +7,6 @@
                         <div class="rounded-full bg-white w-32 h-32 p-1 shadow-md">
                             <img class="mb-3 w-full rounded-full shadow-lg" :src="profile" alt="Bonnie image">
                         </div>
-                        
                             <form>
                                 <div class="mb-4 w-54 lg:w-64">
                                 <label for="email" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Your email</label>
