@@ -16,21 +16,21 @@
                         <div class="grid grid-cols-3">
                             <div class="w-full p-1">
                                 <div class="bg-white rounded shadow-md h-20 overflow-hidden">
-                                    <a href="https://id.pinterest.com/pin/630011435362301716/" target="_blank" rel="noopener noreferrer">    
+                                    <a href="https://pin.it/37mIgZw" target="_blank" rel="noopener noreferrer">    
                                         <img class="mb-3 w-full shadow-lg " :src="_1" alt="Yusuf image">
                                     </a>
                                 </div>
                             </div>
                             <div class="w-full p-1">
                                 <div class="bg-white rounded shadow-md h-20">
-                                    <a href="https://id.pinterest.com/pin/630011435362409969/" target="_blank" rel="noopener noreferrer">
+                                    <a href="https://pin.it/6FDOzn0" target="_blank" rel="noopener noreferrer">
                                         <img class="mb-3 w-full shadow-lg " :src="_2" alt="Yusuf image">
                                     </a>
                                 </div>
                             </div>
                             <div class="w-full p-1">
                                 <div class="bg-white rounded shadow-md h-20">
-                                    <a href="https://id.pinterest.com/pin/630011435363529878/" target="_blank" rel="noopener noreferrer">
+                                    <a href="https://pin.it/7zMOW8t" target="_blank" rel="noopener noreferrer">
                                         <img class="mb-3 w-full shadow-lg " :src="_3" alt="Yusuf image">
                                     </a>
                                 </div>
@@ -41,14 +41,14 @@
                             <div class="w-full p-1">
                                 <div class="bg-white rounded shadow-md h-20">
                                     <a href="http://yusufginanjar.com/freshfoodbandung" target="_blank" rel="noopener noreferrer">
-                                        <img class="mb-3 w-full shadow-lg " :src="_4" alt="Yusuf image">
+                                        <img class="mb-3 w-full shadow-lg " :src="_4" alt="Fresh food bandung">
                                     </a>
                                 </div>
                             </div>
                             <div class="w-full p-1">
                                 <div class="bg-white rounded shadow-md h-20">
                                     <a href="http://kampusjualan.com" target="_blank" rel="noopener noreferrer">
-                                        <img class="mb-3 w-full shadow-lg " :src="kampusjualan" alt="Yusuf image">
+                                        <img class="mb-3 w-full shadow-lg " :src="kampusjualan" alt="Kampus Jualan">
                                     </a>
                                 </div>
                             </div>
